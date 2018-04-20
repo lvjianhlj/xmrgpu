@@ -1,0 +1,4 @@
+/home/parallels/py/xmrig-nvidia-master/xmrig-nvidia-master/CMakeFiles/edit_cache.dir
+/home/parallels/py/xmrig-nvidia-master/xmrig-nvidia-master/CMakeFiles/rebuild_cache.dir
+/home/parallels/py/xmrig-nvidia-master/xmrig-nvidia-master/CMakeFiles/xmrig-nvidia.dir
+/home/parallels/py/xmrig-nvidia-master/xmrig-nvidia-master/CMakeFiles/xmrig-cuda.dir

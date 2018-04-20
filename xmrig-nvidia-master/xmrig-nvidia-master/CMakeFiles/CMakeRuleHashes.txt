@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+76aac8b91a21ec6548424a97b861b1a3 CMakeFiles/xmrig-cuda.dir/src/nvidia/xmrig-cuda_generated_cuda_core.cu.o
+fe2c685deb18b6b93bcd3749aef727f4 CMakeFiles/xmrig-cuda.dir/src/nvidia/xmrig-cuda_generated_cuda_extra.cu.o

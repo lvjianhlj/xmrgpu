@@ -1,0 +1,2 @@
+/usr/bin/ar qc libxmrig-cuda.a  CMakeFiles/xmrig-cuda.dir/src/nvidia/xmrig-cuda_generated_cuda_core.cu.o CMakeFiles/xmrig-cuda.dir/src/nvidia/xmrig-cuda_generated_cuda_extra.cu.o
+/usr/bin/ranlib libxmrig-cuda.a
